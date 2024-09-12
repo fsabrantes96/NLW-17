@@ -45,11 +45,21 @@ Apresentar os dados
 - [x] Uma lista que contém qualquer tipo de dado
 
 ### Objetos:
+
 - [x] Atributos e métodos
 - [x] Criação e manipulação de objetos
 - [x] Acesso a propriedades de objetos
 
 ### Functions
+
 - [x] criar, passar argumento
 - [x] execurar
 - [x] arrow function / named function
+
+# Estrutura de repetição
+
+- [x] while
+
+# Condicionais
+
+- [x] switch
